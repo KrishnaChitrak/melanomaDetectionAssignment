@@ -45,7 +45,7 @@ Give credit here.
 - stackoverflow
 
 ## Contact
-Created by [@shantanuchitrk14] - feel free to contact me!
+Created by [Krishnachitrak@gmail.com] - feel free to contact me!
 
 
 <!-- Optional -->
